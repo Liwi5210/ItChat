@@ -363,20 +363,4 @@ def format_header_param(name, value):
 
 ### 登录时出现不安全的提示
 
-建议更新Python版本至2.7.11
-
-## 小练习答案
-
-源码可在该地址下载：[这里](https://github.com/littlecodersh/EasierLife/blob/master/Scripts/SendToMyself.py)
-
-## 结束语
-
-希望读完这篇文章能对你有帮助，有什么不足之处万望指正（鞠躬）。
-
-有什么想法或者想要关注我的更新，欢迎来[**Github**](https://github.com/littlecodersh/ItChat)上***Star***或者***Fork***。
-
-160318
-
-LittleCoder
-
-EOF
+建议更新Python版本
