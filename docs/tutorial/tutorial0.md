@@ -333,25 +333,4 @@ python3 main.py
 
 或者直接阅读[文档][document]也是不错的选择。
 
-如果你的本地环境并非Python3也没有关系，itchat同样完美支持Python2。
-
-## 七、代码获取
-
-我将整个项目目录做了一个打包，你可以直接下载后运行。
-
-你可以在[这里][code-package]下载。
-
-如果有什么问题，欢迎在我的[主页][author]留言或者[邮件][email]联系我。
-
-[vip]: https://www.shiyanlou.com/courses/684
-[author]: https://github.com/littlecodersh
-[install]: http://7xrip4.com1.z0.glb.clouddn.com/shiyanlou/itchat/2/install.png?imageView/2/h/300/
-[tuling]: http://tuling123.com/help/h_cent_webapi.jhtml
-[login]: http://7xrip4.com1.z0.glb.clouddn.com/shiyanlou/itchat/2/login.png?imageView/2/h/300/
-[send-hello]: http://7xrip4.com1.z0.glb.clouddn.com/shiyanlou/itchat/2/send-hello.png?imageView/2/h/400
-[reply-hello]: http://7xrip4.com1.z0.glb.clouddn.com/shiyanlou/itchat/2/reply-hello.png?imageView/2/h/300/
-[demo]: http://7xrip4.com1.z0.glb.clouddn.com/shiyanlou/itchat/2/demo.png?imageView/2/h/400/
-[code-package]: http://7xrip4.com1.z0.glb.clouddn.com/shiyanlou/itchat/2/main.py
-[email]: mailto:i7meavnktqegm1b@qq.com
-[itchat]: https://github.com/littlecodersh/itchat
-[document]: http://itchat.readthedocs.io/zh/latest/
+如果你的本地环境并非Python3也没有关系，itchat同样完美支持Python.
